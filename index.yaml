@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nextjs:
+  - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2025-09-13T10:10:46.763306355Z"
+    description: A Helm chart for Kubernetes
+    digest: 10007f64c16da943718d03c2091ff1c127ea3bda5bb57eb099bb7ed60d797b3c
+    name: nextjs
+    type: application
+    urls:
+    - nextjs-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-13T10:10:46.762721038Z"
